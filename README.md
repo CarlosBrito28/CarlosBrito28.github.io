@@ -1,4 +1,4 @@
-#                                        Carlos Brito personal page web
+# Carlos Brito personal page web
 
 # Contact
 Visit [my online CV](https://carlosbrito28.github.io).
